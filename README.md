@@ -1,6 +1,8 @@
 # MediaPolka
 
 **A Windows desktop media workstation for folder-based playback, library curation, and multi-platform streaming ingestion.**
+<img width="1145" height="804" alt="image" src="https://github.com/user-attachments/assets/e1838897-9267-4b9f-a5db-f43e45f9bff5" />
+
 
 MediaPolka turns any local directory into a hands-free playlist player for video, audio, and image slideshows—while embedding optional pipelines to search, stream, and download content from Yandex Music, YouTube, VK, RuTube, Telegram, TikTok, and Instagram. It targets creators and power users who need **one native app** instead of juggling a file manager, browser tabs, and separate download tools.
 
